@@ -1,0 +1,10 @@
+C:\Users\jhmn_\source\repos\ordena\ordena\bin\Debug\ordena.exe.config
+C:\Users\jhmn_\source\repos\ordena\ordena\bin\Debug\ordena.exe
+C:\Users\jhmn_\source\repos\ordena\ordena\bin\Debug\ordena.pdb
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.csprojAssemblyReference.cache
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.Form1.resources
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.Properties.Resources.resources
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.csproj.GenerateResource.cache
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.csproj.CoreCompileInputs.cache
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.exe
+C:\Users\jhmn_\source\repos\ordena\ordena\obj\Debug\ordena.pdb
